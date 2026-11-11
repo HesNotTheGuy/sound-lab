@@ -107,7 +107,7 @@ Every control is documented in [docs/FEATURES.md](docs/FEATURES.md).
 
 ## Install
 
-Download a build from the [Releases page](https://github.com/HesNotTheGuy/Oscilloscope/releases).
+Download a build from the [Releases page](https://github.com/HesNotTheGuy/sound-lab/releases).
 
 To run from source (Node 22.12 or newer):
 

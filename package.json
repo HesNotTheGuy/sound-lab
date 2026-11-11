@@ -5,11 +5,11 @@
   "description": "Sound Lab: see and play with sound",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HesNotTheGuy/Oscilloscope.git"
+    "url": "https://github.com/HesNotTheGuy/sound-lab.git"
   },
-  "homepage": "https://github.com/HesNotTheGuy/Oscilloscope",
+  "homepage": "https://github.com/HesNotTheGuy/sound-lab",
   "bugs": {
-    "url": "https://github.com/HesNotTheGuy/Oscilloscope/issues"
+    "url": "https://github.com/HesNotTheGuy/sound-lab/issues"
   },
   "main": "main.js",
   "scripts": {
